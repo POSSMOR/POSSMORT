@@ -1,0 +1,42 @@
+Paso 2: Validar y Mejorar la Seguridad en Flash Loans
+Asegúrate de que el saldo del contrato no disminuya después del préstamo.
+
+Paso 3: Implementar Oráculos de Precios Seguros
+Asegúrate de que la función de obtención de precios use un oráculo seguro.
+
+Paso 4: Realizar Auditorías del Código
+Usa herramientas como MythX o Slither para analizar tu contrato en busca de posibles vulnerabilidades.
+
+Paso 5: Monitorización y Manejo de Errores
+Implementa sistemas de monitorización para detectar y manejar actividades sospechosas y errores.
+
+Paso 6: Pruebas Rigurosas
+Realiza pruebas unitarias y de integración para asegurar que todas las funciones del contrato operen como se espera.
+
+Paso 7: Documentación
+Documenta detalladamente todas las modificaciones y mejoras realizadas en el contrato.
+Paso 8: Preparación del Informe para el Programa de Recompensas
+Una vez que hayas completado todos los pasos anteriores, prepara un informe detallado para el programa de recompensas que incluya:
+Descripción de las vulnerabilidades encontradas.
+Detalles sobre cómo se corrigieron.
+Pruebas de que las soluciones funcionan correctamente.
+
+Para enviar una vulnerabilidad al programa de recompensas de Aave, necesitas seguir sus instrucciones específicas para reportar problemas de seguridad. Aquí tienes algunos pasos generales:
+Visita el sitio web de Aave:
+Y ala página de seguridad de Aave donde suelen listar los detalles y procedimientos para reportar
+vulnerabilidades.
+
+Regístrate en el programa de recompensas (Bug Bounty):
+Si no estás registrado, deberás crear una cuenta en la plataforma de bug bounty que Aave utilice, como Inmunoterapia.
+Sigue las instrucciones de reporte:
+Cada plataforma y programa de recompensas tiene un formulario específico donde deberás detallar la 
+vulnerabilidad. Asegúrate de incluir:
+Descripción detallada de la vulnerabilidad.
+Paso a paso de cómo reproducir el problema.
+Impacto potencial y severidad.
+Código o pruebas que demuestren la vulnerabilidad.
+Envía el reporte:
+
+Paso 2: Validar y Mejorar la Seguridad en Flash Loans
+Asegúrate de que el saldo del contrato no disminuya después del préstamo flash. Aquí tienes un ejemplo:
+
